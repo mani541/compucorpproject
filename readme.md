@@ -1,4 +1,4 @@
-CompuCorp Task
+Edubookers Task
 Used Model Abservers
 Form Requests for validation
 Elasticsearch ClientBuilder used
